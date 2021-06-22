@@ -1,1 +1,1 @@
-web: gunicorn product.wsgi
+web: gunicorn Recommended_shelf.wsgi:application --log-file -
