@@ -1,7 +1,0 @@
-html
-css
-bootstrap
-django
-models
-datetime
-SQLite
